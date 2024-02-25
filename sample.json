@@ -1,40 +1,133 @@
+[
 {
-  "movies": [
-    {
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "genre": ["Drama"],
-      "director": "Frank Darabont",
-      "actors": ["Tim Robbins", "Morgan Freeman"],
-      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "rating": 9.3
-    },
-    {
-      "title": "The Godfather",
-      "year": 1972,
-      "genre": ["Crime", "Drama"],
-      "director": "Francis Ford Coppola",
-      "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
-      "plot": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
-      "rating": 9.2
-    },
-    {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genre": ["Action", "Crime", "Drama"],
-      "director": "Christopher Nolan",
-      "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
-      "plot": "When the menace known as The Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-      "rating": 9.0
-    },
-    {
-      "title": "Pulp Fiction",
-      "year": 1994,
-      "genre": ["Crime", "Drama"],
-      "director": "Quentin Tarantino",
-      "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
-      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "rating": 8.9
-    }
-  ]
+
+"id": 1,
+"name": "Affenpinscher",
+"bred_for": "Small rodent hunting, lapdog",
+"breed_group": "Toy",
+"life_span": "10 - 12 years",
+"temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
+"origin": "Germany, France",
+"reference_image_id": "BJa4kxc4X",
+  "image":{
+    "id": "BJa4kxc4X",
+    "url":"https://picsum.photos/id/1/200/300"
 }
+},
+{
+
+"id": 2,
+"name": "Afghan Hound",
+"country_code": "AG",
+"bred_for": "Coursing and hunting",
+"breed_group": "Hound",
+"life_span": "10 - 13 years",
+"temperament": "Aloof, Clownish, Dignified, Independent, Happy",
+"origin": "Afghanistan, Iran, Pakistan",
+"reference_image_id": "hMyT4CDXR",
+    "image":{
+    "id": "hMyT4CDXR",
+    "url":"https://picsum.photos/id/1/200/300"
+}
+},
+{
+
+"id": 3,
+"name": "African Hunting Dog",
+"bred_for": "A wild pack animal",
+"life_span": "11 years",
+"temperament": "Wild, Hardworking, Dutiful",
+"origin": "",
+"reference_image_id": "rkiByec47",
+    "image":{
+    "id": "rkiByec47",
+    "url":"https://picsum.photos/id/1/200/300"
+}
+},
+{
+
+"id": 4,
+"name": "Airedale Terrier",
+"bred_for": "Badger, otter hunting",
+"breed_group": "Terrier",
+"life_span": "10 - 13 years",
+"temperament": "Outgoing, Friendly, Alert, Confident, Intelligent, Courageous",
+"origin": "United Kingdom, England",
+"reference_image_id": "1-7cgoZSh",
+    "image":{
+    "id": "1-7cgoZSh",
+    "url":"https://picsum.photos/id/1/200/300"
+}
+},
+
+{
+
+"id": 6,
+"name": "Akita",
+"bred_for": "Hunting bears",
+"breed_group": "Working",
+"life_span": "10 - 14 years",
+"temperament": "Docile, Alert, Responsive, Dignified, Composed, Friendly, Receptive, Faithful, Courageous",
+"reference_image_id": "BFRYBufpm",
+    "image":{
+    "id": "BFRYBufpm",
+    "url":"https://picsum.photos/id/1/200/300"
+}
+},
+{
+
+"id": 7,
+"name": "Alapaha Blue Blood Bulldog",
+"description": "The Alapaha Blue Blood Bulldog is a well-developed, exaggerated bulldog with a broad head and natural drop ears. The prominent muzzle is covered by loose upper lips. The prominent eyes are set well apart. The Alapaha's coat is relatively short and fairly stiff. Preferred colors are blue merle, brown merle, or red merle all trimmed in white or chocolate and white. Also preferred are the glass eyes (blue) or marble eyes (brown and blue mixed in a single eye). The ears and tail are never trimmed or docked. The body is sturdy and very muscular. The well-muscled hips are narrower than the chest. The straight back is as long as the dog is high at the shoulders. The dewclaws are never removed and the feet are cat-like.",
+"bred_for": "Guarding",
+"breed_group": "Mixed",
+"life_span": "12 - 13 years",
+"history": "",
+"temperament": "Loving, Protective, Trainable, Dutiful, Responsible",
+"reference_image_id": "33mJ-V3RX",
+    "image":{
+    "id": "33mJ-V3RX",
+    "url":"https://picsum.photos/id/1/200/300"
+}
+},
+{
+
+"id": 8,
+"name": "Alaskan Husky",
+"bred_for": "Sled pulling",
+"breed_group": "Mixed",
+"life_span": "10 - 13 years",
+"temperament": "Friendly, Energetic, Loyal, Gentle, Confident",
+"reference_image_id": "-HgpNnGXl",
+    "image":{
+    "id": "HgpNnGXl",
+    "url":"https://picsum.photos/id/1/200/300"
+}
+},
+{
+
+"id": 9,
+"name": "Alaskan Malamute",
+"bred_for": "Hauling heavy freight, Sled pulling",
+"breed_group": "Working",
+"life_span": "12 - 15 years",
+"temperament": "Friendly, Affectionate, Devoted, Loyal, Dignified, Playful",
+"reference_image_id": "dW5UucTIW",
+    "image":{
+    "id": "dW5UucTIW",
+    "url":"https://picsum.photos/id/1/200/300"
+}
+{
+
+"id": 10,
+"name": "American Bulldog",
+"breed_group": "Working",
+"life_span": "10 - 12 years",
+"temperament": "Friendly, Assertive, Energetic, Loyal, Gentle, Confident, Dominant",
+"reference_image_id": "pk1AAdloG",
+    "image":{
+    "id": "pk1AAdloG",
+    "url":"https://picsum.photos/id/1/200/300"
+}
+}
+]
