@@ -8,11 +8,9 @@
 "life_span": "10 - 12 years",
 "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
 "origin": "Germany, France",
-"reference_image_id": "BJa4kxc4X",
-  "image":{
-    "id": "BJa4kxc4X",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+
+"url":"https://picsum.photos/id/1/200/300"
+
 },
 {
 
@@ -24,11 +22,7 @@
 "life_span": "10 - 13 years",
 "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
 "origin": "Afghanistan, Iran, Pakistan",
-"reference_image_id": "hMyT4CDXR",
-    "image":{
-    "id": "hMyT4CDXR",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+"url":"https://picsum.photos/id/1/200/300"
 },
 {
 
@@ -38,11 +32,7 @@
 "life_span": "11 years",
 "temperament": "Wild, Hardworking, Dutiful",
 "origin": "",
-"reference_image_id": "rkiByec47",
-    "image":{
-    "id": "rkiByec47",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+"url":"https://picsum.photos/id/1/200/300"
 },
 {
 
@@ -53,11 +43,7 @@
 "life_span": "10 - 13 years",
 "temperament": "Outgoing, Friendly, Alert, Confident, Intelligent, Courageous",
 "origin": "United Kingdom, England",
-"reference_image_id": "1-7cgoZSh",
-    "image":{
-    "id": "1-7cgoZSh",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+"url":"https://picsum.photos/id/1/200/300"
 },
 
 {
@@ -68,11 +54,7 @@
 "breed_group": "Working",
 "life_span": "10 - 14 years",
 "temperament": "Docile, Alert, Responsive, Dignified, Composed, Friendly, Receptive, Faithful, Courageous",
-"reference_image_id": "BFRYBufpm",
-    "image":{
-    "id": "BFRYBufpm",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+"url":"https://picsum.photos/id/1/200/300"
 },
 {
 
@@ -84,11 +66,7 @@
 "life_span": "12 - 13 years",
 "history": "",
 "temperament": "Loving, Protective, Trainable, Dutiful, Responsible",
-"reference_image_id": "33mJ-V3RX",
-    "image":{
-    "id": "33mJ-V3RX",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+"url":"https://picsum.photos/id/1/200/300"
 },
 {
 
@@ -98,11 +76,7 @@
 "breed_group": "Mixed",
 "life_span": "10 - 13 years",
 "temperament": "Friendly, Energetic, Loyal, Gentle, Confident",
-"reference_image_id": "-HgpNnGXl",
-    "image":{
-    "id": "HgpNnGXl",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+"url":"https://picsum.photos/id/1/200/300"
 },
 {
 
@@ -112,11 +86,7 @@
 "breed_group": "Working",
 "life_span": "12 - 15 years",
 "temperament": "Friendly, Affectionate, Devoted, Loyal, Dignified, Playful",
-"reference_image_id": "dW5UucTIW",
-    "image":{
-    "id": "dW5UucTIW",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+"url":"https://picsum.photos/id/1/200/300"
 {
 
 "id": 10,
@@ -124,10 +94,6 @@
 "breed_group": "Working",
 "life_span": "10 - 12 years",
 "temperament": "Friendly, Assertive, Energetic, Loyal, Gentle, Confident, Dominant",
-"reference_image_id": "pk1AAdloG",
-    "image":{
-    "id": "pk1AAdloG",
-    "url":"https://picsum.photos/id/1/200/300"
-}
+"url":"https://picsum.photos/id/1/200/300"
 }
 ]
